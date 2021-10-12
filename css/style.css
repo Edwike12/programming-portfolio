@@ -6,13 +6,8 @@ h2
 {
  color: green;   
 }
-*img
+.img
 {
-    margin: 0;
-    padding: 0;
-}
-.specificatin
-{
-    width: 40px;
-    height: auto;
+    width: 300px;
+    height: autopx;
 }
