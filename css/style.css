@@ -1,0 +1,16 @@
+h1
+{
+color: red;
+}
+
+
+*img
+{
+    margin: 0;
+    padding: 0;
+}
+.specificatin
+{
+    width: 40px;
+    height: auto;
+}
